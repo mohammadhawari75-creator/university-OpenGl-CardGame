@@ -1,0 +1,4 @@
+C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/build/CMakeFiles/OpenGL.SharedModule.dir
+C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/build/CMakeFiles/GLProject.dir
+C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/build/CMakeFiles/edit_cache.dir
+C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/build/CMakeFiles/rebuild_cache.dir

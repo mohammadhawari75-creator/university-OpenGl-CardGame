@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libOpenGL.SharedModule.a CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/glad.c.obj CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/stb_image.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libOpenGL.SharedModule.a

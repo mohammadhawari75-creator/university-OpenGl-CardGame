@@ -1,0 +1,80 @@
+[
+{
+  "directory": "C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_C.rsp -g -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\glad.c.obj -c \"C:\\Users\\mhdha\\Downloads\\Telegram Desktop\\CardGame-HW2026-L4 (1)\\CardGame\\OpenGL.SharedModule\\src\\glad.c\"",
+  "file": "C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/OpenGL.SharedModule/src/glad.c",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/glad.c.obj"
+},
+{
+  "directory": "C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\OpenGL.SharedModule.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\OpenGL.SharedModule.dir\\OpenGL.SharedModule\\src\\stb_image.cpp.obj -c \"C:\\Users\\mhdha\\Downloads\\Telegram Desktop\\CardGame-HW2026-L4 (1)\\CardGame\\OpenGL.SharedModule\\src\\stb_image.cpp\"",
+  "file": "C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/OpenGL.SharedModule/src/stb_image.cpp",
+  "output": "CMakeFiles/OpenGL.SharedModule.dir/OpenGL.SharedModule/src/stb_image.cpp.obj"
+},
+{
+  "directory": "C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\GLProject.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\GLProject.dir\\GLProject\\Bookshelf.cpp.obj -c \"C:\\Users\\mhdha\\Downloads\\Telegram Desktop\\CardGame-HW2026-L4 (1)\\CardGame\\GLProject\\Bookshelf.cpp\"",
+  "file": "C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/GLProject/Bookshelf.cpp",
+  "output": "CMakeFiles/GLProject.dir/GLProject/Bookshelf.cpp.obj"
+},
+{
+  "directory": "C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\GLProject.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\GLProject.dir\\GLProject\\Card.cpp.obj -c \"C:\\Users\\mhdha\\Downloads\\Telegram Desktop\\CardGame-HW2026-L4 (1)\\CardGame\\GLProject\\Card.cpp\"",
+  "file": "C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/GLProject/Card.cpp",
+  "output": "CMakeFiles/GLProject.dir/GLProject/Card.cpp.obj"
+},
+{
+  "directory": "C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\GLProject.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\GLProject.dir\\GLProject\\CardGameMain.cpp.obj -c \"C:\\Users\\mhdha\\Downloads\\Telegram Desktop\\CardGame-HW2026-L4 (1)\\CardGame\\GLProject\\CardGameMain.cpp\"",
+  "file": "C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/GLProject/CardGameMain.cpp",
+  "output": "CMakeFiles/GLProject.dir/GLProject/CardGameMain.cpp.obj"
+},
+{
+  "directory": "C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\GLProject.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\GLProject.dir\\GLProject\\Chest.cpp.obj -c \"C:\\Users\\mhdha\\Downloads\\Telegram Desktop\\CardGame-HW2026-L4 (1)\\CardGame\\GLProject\\Chest.cpp\"",
+  "file": "C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/GLProject/Chest.cpp",
+  "output": "CMakeFiles/GLProject.dir/GLProject/Chest.cpp.obj"
+},
+{
+  "directory": "C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\GLProject.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\GLProject.dir\\GLProject\\Clock.cpp.obj -c \"C:\\Users\\mhdha\\Downloads\\Telegram Desktop\\CardGame-HW2026-L4 (1)\\CardGame\\GLProject\\Clock.cpp\"",
+  "file": "C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/GLProject/Clock.cpp",
+  "output": "CMakeFiles/GLProject.dir/GLProject/Clock.cpp.obj"
+},
+{
+  "directory": "C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\GLProject.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\GLProject.dir\\GLProject\\CubeWithTexture.cpp.obj -c \"C:\\Users\\mhdha\\Downloads\\Telegram Desktop\\CardGame-HW2026-L4 (1)\\CardGame\\GLProject\\CubeWithTexture.cpp\"",
+  "file": "C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/GLProject/CubeWithTexture.cpp",
+  "output": "CMakeFiles/GLProject.dir/GLProject/CubeWithTexture.cpp.obj"
+},
+{
+  "directory": "C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\GLProject.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\GLProject.dir\\GLProject\\PolygonWithTexture.cpp.obj -c \"C:\\Users\\mhdha\\Downloads\\Telegram Desktop\\CardGame-HW2026-L4 (1)\\CardGame\\GLProject\\PolygonWithTexture.cpp\"",
+  "file": "C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/GLProject/PolygonWithTexture.cpp",
+  "output": "CMakeFiles/GLProject.dir/GLProject/PolygonWithTexture.cpp.obj"
+},
+{
+  "directory": "C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\GLProject.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\GLProject.dir\\GLProject\\Poster.cpp.obj -c \"C:\\Users\\mhdha\\Downloads\\Telegram Desktop\\CardGame-HW2026-L4 (1)\\CardGame\\GLProject\\Poster.cpp\"",
+  "file": "C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/GLProject/Poster.cpp",
+  "output": "CMakeFiles/GLProject.dir/GLProject/Poster.cpp.obj"
+},
+{
+  "directory": "C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\GLProject.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\GLProject.dir\\GLProject\\Room.cpp.obj -c \"C:\\Users\\mhdha\\Downloads\\Telegram Desktop\\CardGame-HW2026-L4 (1)\\CardGame\\GLProject\\Room.cpp\"",
+  "file": "C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/GLProject/Room.cpp",
+  "output": "CMakeFiles/GLProject.dir/GLProject/Room.cpp.obj"
+},
+{
+  "directory": "C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\GLProject.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\GLProject.dir\\GLProject\\Table.cpp.obj -c \"C:\\Users\\mhdha\\Downloads\\Telegram Desktop\\CardGame-HW2026-L4 (1)\\CardGame\\GLProject\\Table.cpp\"",
+  "file": "C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/GLProject/Table.cpp",
+  "output": "CMakeFiles/GLProject.dir/GLProject/Table.cpp.obj"
+},
+{
+  "directory": "C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles\\GLProject.dir\\includes_C.rsp -g -o CMakeFiles\\GLProject.dir\\OpenGL.SharedModule\\src\\glad.c.obj -c \"C:\\Users\\mhdha\\Downloads\\Telegram Desktop\\CardGame-HW2026-L4 (1)\\CardGame\\OpenGL.SharedModule\\src\\glad.c\"",
+  "file": "C:/Users/mhdha/Downloads/Telegram Desktop/CardGame-HW2026-L4 (1)/CardGame/OpenGL.SharedModule/src/glad.c",
+  "output": "CMakeFiles/GLProject.dir/OpenGL.SharedModule/src/glad.c.obj"
+}
+]
